@@ -1,6 +1,6 @@
 import { useState } from 'react'
-import ProjectCard from './Components/ProjectCard'
-import ProjectForm from './Components/ProjectForm'
+import ProjectCard from './components/ProjectCard'
+import ProjectForm from './components/ProjectForm'
 
 const initialProjects = [
   { id: 1, title: 'Portfolio Website', description: 'A personal portfolio built with React.', category: 'React' },
